@@ -1,6 +1,6 @@
 # DermaScan
 
-DermaScan is a hackathon MVP for skin lesion risk triage using deep learning
+DermaScan is a MVP for skin lesion risk triage using deep learning
 (EfficientNet + Grad-CAM explainability).
 
 This is an educational demo only — not a medical diagnostic tool.
